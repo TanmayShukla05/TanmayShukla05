@@ -1,5 +1,14 @@
-# 💫 About Me:
-🔭 I’m currently working on galaxy simulation research, Circum-Galactic Medium (CGM) analysis, and machine learning applications in astronomy.<br>🤝 I’m looking to collaborate on AI/ML, computer vision, quantitative research, data science, and computational astrophysics projects.<br>🫶 I’m looking for help with large-scale scientific computing, advanced machine learning, and research publication workflows.<br>🌱 I’m currently learning deep learning, quantitative finance, signal processing, and scalable data engineering.<br>💬 Ask me about astronomy, machine learning, computer vision, data analysis, competitive programming, and scientific research.<br>⚡ Fun fact: I’ve worked on projects ranging from reconstructing the M87* black hole image and analyzing Milky Way-like galaxies to building AI systems for lunar crater detection using Chandrayaan-2 imagery.
+🔭 I’m currently working on galaxy simulations, ML, and computational astrophysics.
+
+🤝 I’m looking to collaborate on AI/ML, CV, data science, and quant projects.
+
+🫶 I’m looking for help with advanced ML, scientific computing, and research.
+
+🌱 I’m currently learning deep learning, quantitative finance, and signal processing.
+
+💬 Ask me about astronomy, machine learning, competitive programming, and research.
+
+⚡ Fun fact: I've worked on black hole imaging, galaxy simulations, and lunar crater detection.
 
 
 ## 🌐 Socials:
