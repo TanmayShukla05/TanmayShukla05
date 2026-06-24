@@ -1,3 +1,5 @@
+# 💫 About Me:
+
 🔭 I’m currently working on galaxy simulations, ML, and computational astrophysics.
 
 🤝 I’m looking to collaborate on AI/ML, CV, data science, and quant projects.
